@@ -16,3 +16,6 @@ You can use the ./Build/BC_Game.exe if you wanna try for yourself.
 OR
 
 You can download Unity Editor Version 2022.3.60f1 and open the project BC_Game with Unity Hub.
+
+
+PS: My game work with the Etherum Sepolia TESTNET, if you want to get some etherum sepolia : https://cloud.google.com/application/web3/faucet/ethereum/sepolia
